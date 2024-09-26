@@ -1,6 +1,4 @@
 #root {
-  max-width: 1280px;
-  max-height: 175px;
   padding: 2rem;
   text-align: center;
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
@@ -9,8 +7,6 @@
 }
 
 body {
-  margin: 0;
-  display: flex;
   min-width: 320px;
   min-height: 100vh;
 }
