@@ -4,7 +4,16 @@
     justify-content: space-around;
 }
 
-.card-card {
+.Categories {
     padding: 20px;
     max-width: 300px;
+    border: 2px rgb(0, 0, 0) solid;
+}
+
+.computer-science {
+    background-color: rgba(0, 255, 68, 0.123);
+}
+
+.cyber-security {
+    background-color: rgba(0, 140, 255, 0.337);
 }
