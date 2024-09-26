@@ -2,7 +2,13 @@ import React from "react";
 
 const Card = () => {
     return (
-        <p>Card</p>
+        <div className="card-container">
+            <div className="card-card"></div>
+            <div className="card-card"></div>
+            <div className="card-card"></div>
+            <div className="card-card"></div>
+            <div className="card-card"></div>
+        </div>
     )
 }
 
