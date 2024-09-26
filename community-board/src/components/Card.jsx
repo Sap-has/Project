@@ -9,7 +9,7 @@ const Card = () => {
                 category='computer-science' 
                 title='Computer Science' 
                 desc='Explore the vast world of computer science.'
-                img='https://example.com/computer-science.jpg' 
+                img='./assets/computer-science.png'
                 link='https://www.computerscience.org/'
             />
             <Categories 
