@@ -1,4 +1,5 @@
 import './App.css';
+import Card from './components/Card';
 
 const App = () => {
 
@@ -8,6 +9,7 @@ const App = () => {
         Computer Science Hub
       </h1>
       <h2>Welcome to the Computer Science Hub!</h2>
+      <Card />
       
     </div>
   )
