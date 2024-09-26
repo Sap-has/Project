@@ -5,18 +5,18 @@ Submitted by: Epifanio Sarinana
 This web app: Will showccase many resource for people that have an interest in computer science. I will provide resources for those who plan to either major or work with a topic related to computer science which will also include those who have graduated from a computer science related major. I will
 provide many resources and cover multiple topics. I will cover AI, CyberSecurity, Computer Architecture, Software Engineering, Systems, and GPU. 
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [x] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [x] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
