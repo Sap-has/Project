@@ -26,23 +26,19 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/cUq4oMW
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
-
+GIF created with LICECap
 ## Notes
 
 Describe any challenges encountered while building the app.
 
+I came across many challenges in the development of this app. One of the most obvious challenges was making the app responsive to mobile devices. A challenge that never occurred to me was deciding the app's structure. Which component to use, what information will contain, and how to properly manipulate the component's CSS. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Epifanio Sarinana]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
